@@ -1,0 +1,107 @@
+[
+  {
+    "hari": "senin",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "My Hero Academia: Vigilantes Season 2",
+        "imageurl": "https://cdn.myanimelist.net/images/anime/1234/1456789.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "Hana-Kimi",
+        "imageurl": "https://example.com/hana-kimi-poster.jpg"
+      }
+    ]
+  },
+  {
+    "hari": "selasa",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "Sentenced to Be a Hero",
+        "imageurl": "https://cdn.myanimelist.net/images/anime/5678/1345678.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "The Daily Life of a Part-Time Torturer",
+        "imageurl": "https://example.com/torturer-poster.jpg"
+      }
+    ]
+  },
+  {
+    "hari": "rabu",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "An Adventurer's Daily Grind at Age 29",
+        "imageurl": "https://example.com/adventurer-grind.jpg"
+      }
+    ]
+  },
+  {
+    "hari": "kamis",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "Jujutsu Kaisen Season 3",
+        "imageurl": "https://cdn.myanimelist.net/images/anime/1012/1389876.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "Chained Soldier Season 2",
+        "imageurl": "https://example.com/chained-soldier.jpg"
+      }
+    ]
+  },
+  {
+    "hari": "jumat",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "Oshi No Ko Season 3",
+        "imageurl": "https://cdn.myanimelist.net/images/anime/1123/1456780.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "Hell Mode: Yarikomi Suki no Gamer",
+        "imageurl": "https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-3cd529db5c.jpg"
+      }
+    ]
+  },
+  {
+    "hari": "sabtu",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "Frieren: Beyond Journey's End Season 2",
+        "imageurl": "https://cdn.myanimelist.net/images/anime/59978/1400000.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "Fire Force Season 3 Part 2",
+        "imageurl": "https://example.com/fire-force-s3.jpg"
+      }
+    ]
+  },
+  {
+    "hari": "minggu",
+    "daftar": [
+      {
+        "no": 1,
+        "nama": "Hell's Paradise Season 2",
+        "imageurl": "https://cdn.myanimelist.net/images/anime/hellsparadise-s2.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "You and I Are Polar Opposites",
+        "imageurl": "https://example.com/polar-opposites.jpg"
+      },
+      {
+        "no": 3,
+        "nama": "One Piece",
+        "imageurl": "https://example.com/one-piece-current.jpg"
+      }
+    ]
+  }
+]
