@@ -1,106 +1,886 @@
 [
   {
     "hari": "senin",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "My Hero Academia: Vigilantes Season 2",
-        "imageurl": "https://cdn.myanimelist.net/images/anime/1234/1456789.jpg"
+        "nama": "Hikuidori: Ushuu Boro Tobi-gumi",
+        "imageurl": "https://ww1.anoboy.boo/img/upload/01as-Hikuidori%20Ushuu%20Boro%20Tobi-gumi%20(1).jpg"
       },
       {
         "no": 2,
-        "nama": "Hana-Kimi",
-        "imageurl": "https://example.com/hana-kimi-poster.jpg"
+        "nama": "Ikoku Nikki",
+        "imageurl": "https://ww1.anoboy.boo/img/upload/01as-Ikoku%20Nikki.jpeg"
+      },
+      {
+        "no": 3,
+        "nama": "Kirei ni Shitemoraemasu ka.",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/61782.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+        "imageurl": "https://tetrix-anime.tumblr.com/post/807995571275169792/kizoku-tensei-megumareta-umare-kara-saikyou-no"
+      },
+      {
+        "no": 5,
+        "nama": "Majutsushi Kunon wa Mieteiru",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/majutsushi-kunon.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Vigilante: Boku no Hero Academia Illegals Season 1 + 2",
+        "imageurl": "https://www.pinterest.com/pin/998251073656489192"
+      },
+      {
+        "no": 7,
+        "nama": "IMMORTALITY SEASON 5",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/2025/12/Immediately-Season-5-%E6%B0%B8%E7%94%9F-%E7%AC%AC%E4%BA%94%E5%AD%A3-IMMORTAL-Season-5-Yong-Sheng-Season-5-%E6%B0%B8%E7%94%9F%E4%B9%8B%E5%A4%AA%E5%85%83%E4%BB%99%E5%BA%9C.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "Wonderland Season 5",
+        "imageurl": "https://luciferdonghua.in/wp-content/uploads/wonderland-season-5-poster.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "The Legend of Sword Domain",
+        "imageurl": "https://luciferdonghua.in/wp-content/uploads/legend-of-sword-domain-season-poster.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "Purgatory Walkers",
+        "imageurl": "https://donghua-img.com/purgatory-walkers-poster.jpg"
+      },
+      {
+        "no": 11,
+        "nama": "WUKONG",
+        "imageurl": "https://donghua-poster.com/wukong-key-visual.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Proud Swordsman",
+        "imageurl": "https://bilibili-poster.com/proud-swordsman-seasonal.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "Adventures in Subduing the Demons",
+        "imageurl": "https://donghua-img.com/adventures-subduing-demons-poster.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "Lingwu Continent",
+        "imageurl": "https://luciferdonghua.in/lingwu-continent-poster.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "Wind of the Tang Dynasty",
+        "imageurl": "https://donghua-news.com/wind-tang-dynasty-visual.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "Blader Soul: Origin",
+        "imageurl": "https://bilibili.com/blader-soul-origin-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "Super Xiang",
+        "imageurl": "https://donghua-superxiang.com/poster-season.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "Swallowed Star Season 4",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/swallowed-star-season4-poster.jpg"
       }
     ]
   },
   {
     "hari": "selasa",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "Sentenced to Be a Hero",
-        "imageurl": "https://cdn.myanimelist.net/images/anime/5678/1345678.jpg"
+        "nama": "Chitose-kun wa Ramune Bin no Naka",
+        "imageurl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/chitose-is-in-the-ramune-bottle-key-visual.jpg"
       },
       {
         "no": 2,
-        "nama": "The Daily Life of a Part-Time Torturer",
-        "imageurl": "https://example.com/torturer-poster.jpg"
+        "nama": "Darwin Jihen",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/darwin-jihen-key-visual-2026.jpg"
+      },
+      {
+        "no": 3,
+        "nama": "Golden Kamuy Season 1 + 2 + 3 + 4 + 5",
+        "imageurl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/golden-kamuy-final-chapter-key-visual.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "Himesama “Goumon” no Jikan desu Season 1 + 2",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/himesama-goumon-season2-key-visual.jpg"
+      },
+      {
+        "no": 5,
+        "nama": "Maou no Musume wa Yasashisugiru!!",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/maou-no-musume-teaser-visual-2026.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Mayonaka Heart Tune",
+        "imageurl": "https://mayochu-anime.com/assets/key-visual.jpg"
+      },
+      {
+        "no": 7,
+        "nama": "Osananajimi to wa Love Comedy ni Naranai",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/osananajimi-lovecom-teaser-visual.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/yuusha-party-kawaii-ko-key-visual-2026.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "My Sectarian Members Are Spies",
+        "imageurl": "https://donghua-news.com/assets/my-sectarian-members-are-spies-poster.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "I Can Have Infinite Enlightenment",
+        "imageurl": "https://in.pinterest.com/pin/poster--892697957386809126"
+      },
+      {
+        "no": 11,
+        "nama": "Nirvana of Storm Riders",
+        "imageurl": "https://luciferdonghua.in/wp-content/uploads/nirvana-of-storm-riders-poster.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Apotheosis",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/apotheosis-donghua-poster.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "Martial Master",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/martial-master-poster.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "Ascendants of the Nine Suns",
+        "imageurl": "https://bilibili-poster.com/ascendants-nine-suns-visual.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "Transcend Evolution",
+        "imageurl": "https://donghua-img.com/transcend-evolution-poster.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "Supreme Alchemy",
+        "imageurl": "https://luciferdonghua.in/supreme-alchemy-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "Lord of the Ancient God Grave",
+        "imageurl": "https://donghua-news.com/lord-ancient-god-grave-poster.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "Sword and Fairy 3",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/sword-fairy-3-poster.jpg"
+      },
+      {
+        "no": 19,
+        "nama": "100.000 Years of Refining Qi",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/100000-years-refining-qi-poster.jpg"
+      },
+      {
+        "no": 20,
+        "nama": "Great Doctor Miss Nine",
+        "imageurl": "https://luciferdonghua.in/great-doctor-miss-nine-poster.jpg"
+      },
+      {
+        "no": 21,
+        "nama": "The Legend Of The Greatest Sword Immortal",
+        "imageurl": "https://bilibili.com/greatest-sword-immortal-poster.jpg"
+      },
+      {
+        "no": 22,
+        "nama": "Quanzhi Gaoshou Season 3",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/quanzhi-gaoshou-season3-poster.jpg"
+      },
+      {
+        "no": 23,
+        "nama": "Shrouding the Heavens",
+        "imageurl": "https://donghua-news.com/shrouding-the-heavens-poster.jpg"
       }
     ]
   },
   {
     "hari": "rabu",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "An Adventurer's Daily Grind at Age 29",
-        "imageurl": "https://example.com/adventurer-grind.jpg"
+        "nama": "“Oshi no Ko” Season 1 + 2 + 3",
+        "imageurl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/oshi-no-ko-season-3-key-visual.jpg"
+      },
+      {
+        "no": 2,
+        "nama": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/29-sai-dokushin-chuuken-key-visual-2026.jpg"
+      },
+      {
+        "no": 3,
+        "nama": "Arne no Jikenbo",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/arne-no-jikenbo-second-key-visual.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/okiraku-ryoushu-key-visual-2026.jpg"
+      },
+      {
+        "no": 5,
+        "nama": "Tamon-kun Ima Docchi!?",
+        "imageurl": "https://tamon-anime.com/assets/main-key-visual.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Yuusha Party wo Oidasareta Kiyoubinbou",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/yuusha-party-wo-oidasareta-key-visual.jpg"
+      },
+      {
+        "no": 7,
+        "nama": "Peerless Battle Spirit",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/peerless-battle-spirit-poster.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "Xi Xing Ji Asura: Mad King",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/xi-xing-ji-asura-mad-king-poster.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "The Supreme Body Refining Master",
+        "imageurl": "https://luciferdonghua.in/wp-content/uploads/supreme-body-refining-master-poster.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "My WeChat Connects to the Dragon Palace",
+        "imageurl": "https://donghua-news.com/my-wechat-dragon-palace-poster.jpg"
+      },
+      {
+        "no": 11,
+        "nama": "Slay the Gods",
+        "imageurl": "https://bilibili-poster.com/slay-the-gods-visual.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Purple River Season 2",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/purple-river-season-2-poster.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "The Legend of Magic Outfit",
+        "imageurl": "https://luciferdonghua.in/legend-of-magic-outfit-poster.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "A Moment but Forever",
+        "imageurl": "https://donghua-img.com/a-moment-but-forever-poster.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "Shao Nian Ge Xing Season 3",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/shao-nian-ge-xing-season3-poster.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "Close Combat Mage",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/close-combat-mage-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "Return of The Immortal Emperor",
+        "imageurl": "https://luciferdonghua.in/return-immortal-emperor-poster.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "The Mirage House in the Clouds",
+        "imageurl": "https://donghua-news.com/mirage-house-clouds-poster.jpg"
+      },
+      {
+        "no": 19,
+        "nama": "The Island of Siliang Season 2",
+        "imageurl": "https://bilibili.com/island-of-siliang-season2-poster.jpg"
+      },
+      {
+        "no": 20,
+        "nama": "Divine Manifestation",
+        "imageurl": "https://donghua-img.com/divine-manifestation-poster.jpg"
+      },
+      {
+        "no": 21,
+        "nama": "Endless God Realm",
+        "imageurl": "https://luciferdonghua.in/endless-god-realm-poster.jpg"
+      },
+      {
+        "no": 22,
+        "nama": "Throne of Seal",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/throne-of-seal-poster.jpg"
+      },
+      {
+        "no": 23,
+        "nama": "Urban Ancient Immortal Doctor",
+        "imageurl": "https://donghua-news.com/urban-ancient-immortal-doctor-poster.jpg"
+      },
+      {
+        "no": 24,
+        "nama": "Tales Of Dark River",
+        "imageurl": "https://bilibili-poster.com/tales-of-dark-river-visual.jpg"
       }
     ]
   },
   {
     "hari": "kamis",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "Jujutsu Kaisen Season 3",
-        "imageurl": "https://cdn.myanimelist.net/images/anime/1012/1389876.jpg"
+        "nama": "Eris no Seihai",
+        "imageurl": "https://eris-seihai.com/assets/key-visual.jpg"
       },
       {
         "no": 2,
-        "nama": "Chained Soldier Season 2",
-        "imageurl": "https://example.com/chained-soldier.jpg"
+        "nama": "Jigoku Sensei Nube (2025)",
+        "imageurl": "https://hell-teacher-nube.fandom.com/wiki/File:Key_Visual_2025.jpg"
+      },
+      {
+        "no": 3,
+        "nama": "Mato Seihei no Slave Season 1 + 2",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/mato-seihei-no-slave-season2-key-visual.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "MF Ghost Season 1 + 2 + 3",
+        "imageurl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/mf-ghost-season3-key-visual.jpg"
+      },
+      {
+        "no": 5,
+        "nama": "Odayaka Kizoku no Kyuuka no Susume.",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/odayaka-kizoku-key-visual-2026.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/toumei-otoko-key-visual.jpg"
+      },
+      {
+        "no": 7,
+        "nama": "Supreme Sword God",
+        "imageurl": "https://www.themoviedb.org/t/p/original/supreme-sword-god-poster.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "Wonderland Season 5",
+        "imageurl": "https://luciferdonghua.in/wp-content/uploads/wonderland-season-5-poster.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "My Senior Brother Is Too Steady",
+        "imageurl": "https://www.reddit.com/r/Donghua/comments/my-senior-brother-is-too-steady-official-poster.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "Supreme God Emperor",
+        "imageurl": "https://supreme-god-emperor.fandom.com/wiki/File:Supreme_God_Emperor_poster.jpg"
+      },
+      {
+        "no": 11,
+        "nama": "Sword of Coming Season 2",
+        "imageurl": "https://donghua-news.com/sword-of-coming-season2-final-poster.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Ancient Star Divine Technique",
+        "imageurl": "https://luciferdonghua.in/ancient-star-divine-technique-poster.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "Martial Conqueror of the Cosmos",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/martial-conqueror-cosmos-poster.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "X-Epoch of Dragon",
+        "imageurl": "https://bilibili-poster.com/x-epoch-of-dragon-visual.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "Perfect World",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/perfect-world-poster.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "Heaven Official’s Blessing Season 2",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/heaven-officials-blessing-season2-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "GoWest: Overworked",
+        "imageurl": "https://donghua-img.com/gowest-overworked-poster.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "The Demon King Who Lost His Job",
+        "imageurl": "https://luciferdonghua.in/demon-king-lost-job-poster.jpg"
       }
     ]
   },
   {
     "hari": "jumat",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "Oshi No Ko Season 3",
-        "imageurl": "https://cdn.myanimelist.net/images/anime/1123/1456780.jpg"
+        "nama": "“Omae Gotoki ga Maou ni Kateru to Omouna” to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/omae-gotoki-ga-maou-key-visual-2026.jpg"
       },
       {
         "no": 2,
-        "nama": "Hell Mode: Yarikomi Suki no Gamer",
-        "imageurl": "https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-3cd529db5c.jpg"
+        "nama": "Champignon no Majo",
+        "imageurl": "https://champignon-pr.com/assets/key-visual.jpg"
+      },
+      {
+        "no": 3,
+        "nama": "Douse, Koishite Shimaunda. Season 1 + 2",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/douse-koishite-shimaunda-key-visual.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "Jujutsu Kaisen (TV) Season 1 + 2 + 3",
+        "imageurl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/jujutsu-kaisen-season-3-key-visual.jpg"
+      },
+      {
+        "no": 5,
+        "nama": "Pokemon (2023)",
+        "imageurl": "https://pokemonhorizons.com/assets/rising-again-key-visual.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Keyboard Immortal",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/keyboard-immortal-poster.jpg"
+      },
+      {
+        "no": 7,
+        "nama": "Dream Tower: Snow Mystery City Season 2",
+        "imageurl": "https://www.pinterest.com/pin/dream-tower-xue-mi-cheng-poster.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "I Am The Blade",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/wo-wei-dao-zong-poster.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "Eat Around the Mortal World",
+        "imageurl": "https://luciferdonghua.in/eat-around-mortal-world-poster.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "Lord of Planet",
+        "imageurl": "https://donghua-news.com/lord-of-planet-poster.jpg"
+      },
+      {
+        "no": 11,
+        "nama": "Jun You Yun Season 2",
+        "imageurl": "https://bilibili-poster.com/jun-you-yun-season2-visual.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Shadow of the Void",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/shadow-of-the-void-poster.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "Xi Xing Ji Season 5",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/xi-xing-ji-season5-poster.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "The Success Of Empyrean Xuan Emperor",
+        "imageurl": "https://luciferdonghua.in/empyrean-xuan-emperor-poster.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "Candle in the Tomb: Return to the South Sea",
+        "imageurl": "https://donghua-img.com/candle-in-the-tomb-south-sea-poster.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "Otherworldly Evil Monarch",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/otherworldly-evil-monarch-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "The Gate of Mystical Realm",
+        "imageurl": "https://bilibili.com/gate-of-mystical-realm-poster.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "Soul Land 2: The Unrivaled Tang Sect",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/soul-land-2-poster.jpg"
+      },
+      {
+        "no": 19,
+        "nama": "The Abyss Game",
+        "imageurl": "https://luciferdonghua.in/abyss-game-poster.jpg"
+      },
+      {
+        "no": 20,
+        "nama": "Summer Punch",
+        "imageurl": "https://donghua-news.com/summer-punch-poster.jpg"
+      },
+      {
+        "no": 21,
+        "nama": "The Great Ruler 3D",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/great-ruler-3d-poster.jpg"
+      },
+      {
+        "no": 22,
+        "nama": "Tomb of Fallen Gods Season 3",
+        "imageurl": "https://luciferdonghua.in/tomb-of-fallen-gods-season3-poster.jpg"
       }
     ]
   },
   {
     "hari": "sabtu",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "Frieren: Beyond Journey's End Season 2",
-        "imageurl": "https://cdn.myanimelist.net/images/anime/59978/1400000.jpg"
+        "nama": "Ao no Miburo Season 1 + 2",
+        "imageurl": "https://miburoanime.com/assets/key-visual-new-arc.jpg"
       },
       {
         "no": 2,
-        "nama": "Fire Force Season 3 Part 2",
-        "imageurl": "https://example.com/fire-force-s3.jpg"
+        "nama": "Dark Moon: Tsuki no Saidan",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/dark-moon-tsuki-no-saidan-key-visual.jpg"
+      },
+      {
+        "no": 3,
+        "nama": "Dead Account",
+        "imageurl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/dead-account-key-visual.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "Enen No Shouboutai Season 1 + 2 + 3",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/enen-no-shouboutai-season3-part2-key-visual.jpg"
+      },
+      {
+        "no": 5,
+        "nama": "Fumetsu no Anata e Season 1 + 2 + 3",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/fumetsu-no-anata-e-season3-key-visual.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+        "imageurl": "https://hell-mode-anime.com/assets/key-visual.jpg"
+      },
+      {
+        "no": 7,
+        "nama": "Tensei shitara Dragon no Tamago datta",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/tensei-dragon-no-tamago-key-visual-2026.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "imageurl": "https://sentenced-to-be-a-hero.com/assets/new-key-visual.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "Sword Bone",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/sword-bone-poster.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "Bureau of Paranormal Investigation",
+        "imageurl": "https://luciferdonghua.in/bureau-paranormal-investigation-poster.jpg"
+      },
+      {
+        "no": 11,
+        "nama": "Against the Sky Supreme",
+        "imageurl": "https://bilibili-poster.com/against-the-sky-supreme-visual.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Strongest Immortal of Seven Realms",
+        "imageurl": "https://donghua-news.com/strongest-immortal-seven-realms-poster.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "Legend of Martial Immortal",
+        "imageurl": "https://luciferdonghua.in/legend-martial-immortal-poster.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "Tales of Demons and Gods Season 8",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/tales-demons-gods-season8-poster.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "The Guardian Legend",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/guardian-legend-poster.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "Way of Choices",
+        "imageurl": "https://bilibili.com/way-of-choices-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "Carpenter Assassin",
+        "imageurl": "https://luciferdonghua.in/carpenter-assassin-poster.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "Threads of Fate: A War Untold",
+        "imageurl": "https://donghua-img.com/threads-of-fate-war-untold-poster.jpg"
+      },
+      {
+        "no": 19,
+        "nama": "A Record of A Mortal’s Journey to Immortality",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/mortal-journey-immortality-poster.jpg"
+      },
+      {
+        "no": 20,
+        "nama": "Lord of the Ancient God Grave",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/lord-ancient-god-grave-poster.jpg"
+      },
+      {
+        "no": 21,
+        "nama": "The Legend of Sky Lord 3D",
+        "imageurl": "https://luciferdonghua.in/sky-lord-3d-poster.jpg"
+      },
+      {
+        "no": 22,
+        "nama": "Magic Chef of Fire and Ice",
+        "imageurl": "https://bilibili-poster.com/magic-chef-fire-ice-visual.jpg"
+      },
+      {
+        "no": 23,
+        "nama": "The Path Toward Heaven",
+        "imageurl": "https://donghua-news.com/path-toward-heaven-poster.jpg"
+      },
+      {
+        "no": 24,
+        "nama": "The Supreme Dantian",
+        "imageurl": "https://luciferdonghua.in/supreme-dantian-poster.jpg"
+      },
+      {
+        "no": 25,
+        "nama": "Five Elements God Of War",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/five-elements-god-war-poster.jpg"
+      },
+      {
+        "no": 26,
+        "nama": "Hidden Sect Leader",
+        "imageurl": "https://bilibili.com/hidden-sect-leader-poster.jpg"
+      },
+      {
+        "no": 27,
+        "nama": "Tomb of Fallen Gods Season 2",
+        "imageurl": "https://luciferdonghua.in/tomb-fallen-gods-season2-poster.jpg"
+      },
+      {
+        "no": 28,
+        "nama": "Spare Me, Great Lord! Season 2",
+        "imageurl": "https://donghua-img.com/spare-me-great-lord-season2-poster.jpg"
+      },
+      {
+        "no": 29,
+        "nama": "100.000 Years of Refining Qi",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/100000-years-refining-qi-poster.jpg"
+      },
+      {
+        "no": 30,
+        "nama": "Battle Through the Heavens Season 5",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/battle-through-heavens-season5-poster.jpg"
+      },
+      {
+        "no": 31,
+        "nama": "LINK CLICK: BRIDON ARC",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/link-click-bridon-arc-poster.jpg"
+      },
+      {
+        "no": 32,
+        "nama": "Villain Initialization",
+        "imageurl": "https://luciferdonghua.in/villain-initialization-poster.jpg"
+      },
+      {
+        "no": 33,
+        "nama": "Mom, I’m Sorry",
+        "imageurl": "https://donghua-news.com/mom-im-sorry-poster.jpg"
       }
     ]
   },
   {
     "hari": "minggu",
-    "daftar": [
+    "items": [
       {
         "no": 1,
-        "nama": "Hell's Paradise Season 2",
-        "imageurl": "https://cdn.myanimelist.net/images/anime/hellsparadise-s2.jpg"
+        "nama": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+        "imageurl": "https://www.zerochan.net/Akuyaku+Reijou+wa+Ringoku+no+Outaishi+ni+Dekiai+Sareru"
       },
       {
         "no": 2,
-        "nama": "You and I Are Polar Opposites",
-        "imageurl": "https://example.com/polar-opposites.jpg"
+        "nama": "Digimon Beatbreak",
+        "imageurl": "https://digimon.fandom.com/wiki/File:Digimon_Beatbreak_Key_Visual.jpg"
       },
       {
         "no": 3,
-        "nama": "One Piece",
-        "imageurl": "https://example.com/one-piece-current.jpg"
+        "nama": "Gnosia",
+        "imageurl": "https://gnosia.fandom.com/wiki/File:GNOSIA_Anime_Key_Visual.jpg"
+      },
+      {
+        "no": 4,
+        "nama": "Goumon Baito-kun no Nichijou",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/goumon-baito-kun-key-visual.jpg"
+      },
+      {
+        "no": 5,
+        "nama": "Hanazakari no Kimitachi e",
+        "imageurl": "https://hanakimi-anime.com/assets/key-visual-new-arc.jpg"
+      },
+      {
+        "no": 6,
+        "nama": "Jigokuraku Season 1 + 2",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/jigokuraku-season2-key-visual.jpg"
+      },
+      {
+        "no": 7,
+        "nama": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/jingai-kyoushitsu-key-visual.jpg"
+      },
+      {
+        "no": 8,
+        "nama": "Kaya-chan wa Kowakunai",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/kaya-chan-wa-kowakunai-poster.jpg"
+      },
+      {
+        "no": 9,
+        "nama": "Medalist Season 1 + 2",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/medalist-season2-key-visual.jpg"
+      },
+      {
+        "no": 10,
+        "nama": "Seihantai na Kimi to Boku",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/seihantai-na-kimi-to-boku-visual.jpg"
+      },
+      {
+        "no": 11,
+        "nama": "SI-VIS: The Sound of Heroes",
+        "imageurl": "https://si-vis-anime.com/assets/key-visual.jpg"
+      },
+      {
+        "no": 12,
+        "nama": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/toujima-tanzaburou-poster.jpg"
+      },
+      {
+        "no": 13,
+        "nama": "Trigun Stampede",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/trigun-stampede-key-visual.jpg"
+      },
+      {
+        "no": 14,
+        "nama": "Uruwashi no Yoi no Tsuki",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/uruwashi-no-yoi-no-tsuki-visual.jpg"
+      },
+      {
+        "no": 15,
+        "nama": "Yuusha no Kuzu",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/yuusha-no-kuzu-poster.jpg"
+      },
+      {
+        "no": 16,
+        "nama": "God of War Alliance",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/god-of-war-alliance-poster.jpg"
+      },
+      {
+        "no": 17,
+        "nama": "Great Desolation Spirit Sovereign",
+        "imageurl": "https://luciferdonghua.in/great-desolation-spirit-sovereign-poster.jpg"
+      },
+      {
+        "no": 18,
+        "nama": "The Daily Life of the Immortal King Season 5",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/daily-life-immortal-king-season5-poster.jpg"
+      },
+      {
+        "no": 19,
+        "nama": "Legend of Soldier",
+        "imageurl": "https://donghua-news.com/legend-of-soldier-poster.jpg"
+      },
+      {
+        "no": 20,
+        "nama": "Martial Master",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/martial-master-poster.jpg"
+      },
+      {
+        "no": 21,
+        "nama": "Tales of Herding Gods",
+        "imageurl": "https://luciferdonghua.in/tales-of-herding-gods-poster.jpg"
+      },
+      {
+        "no": 22,
+        "nama": "The Ethereal Sword Immortal",
+        "imageurl": "https://bilibili-poster.com/ethereal-sword-immortal-visual.jpg"
+      },
+      {
+        "no": 23,
+        "nama": "Matchless Emperor",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/matchless-emperor-poster.jpg"
+      },
+      {
+        "no": 24,
+        "nama": "Make Money To Be King",
+        "imageurl": "https://luciferdonghua.in/make-money-to-be-king-poster.jpg"
+      },
+      {
+        "no": 25,
+        "nama": "The Other Side of Deep Space",
+        "imageurl": "https://donghua-img.com/other-side-deep-space-poster.jpg"
+      },
+      {
+        "no": 26,
+        "nama": "Beyond Time’s Gaze",
+        "imageurl": "https://bilibili.com/beyond-times-gaze-poster.jpg"
+      },
+      {
+        "no": 27,
+        "nama": "Hitori No Shita Season 6",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/hitori-no-shita-season6-poster.jpg"
+      },
+      {
+        "no": 28,
+        "nama": "Golden Guards: The Wind Rises From Jinling",
+        "imageurl": "https://donghuastream.org/wp-content/uploads/golden-guards-jinling-poster.jpg"
+      },
+      {
+        "no": 29,
+        "nama": "Renegade Immortal",
+        "imageurl": "https://luciferdonghua.in/renegade-immortal-poster.jpg"
+      },
+      {
+        "no": 30,
+        "nama": "Ancient Supremacy",
+        "imageurl": "https://donghua-news.com/ancient-supremacy-poster.jpg"
+      },
+      {
+        "no": 31,
+        "nama": "Soul Land Season 2 (Live Action)",
+        "imageurl": "https://myanimelist.cdn-dena.com/images/anime/soul-land-season2-live-action-poster.jpg"
+      },
+      {
+        "no": 32,
+        "nama": "The War of Cards",
+        "imageurl": "https://bilibili-poster.com/war-of-cards-visual.jpg"
       }
     ]
   }
