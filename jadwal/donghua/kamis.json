@@ -1,6 +1,52 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "Supreme Sword God",
+    "imageurl": "https://www.themoviedb.org/t/p/original/some-supreme-sword-god-poster.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Wonderland Season 5",
+    "imageurl": "https://i.pinimg.com/736x/664281013818453741-wonderland-lucifer.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "My Senior Brother Is Too Steady",
+    "imageurl": "https://i.pinimg.com/originals/my-senior-brother-is-too-steady-poster.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "Sword of Coming Season 2",
+    "imageurl": "https://www.pinterest.com/pin/892697957385512865-jian-lai-poster.jpg"
+  },
+  {
+    "no": 5,
+    "nama": "Ancient Star Divine Technique",
+    "imageurl": "https://i.pinimg.com/736x/690035974181433511-taigu-xing-shen-dian-poster.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "X-Epoch of Dragon",
+    "imageurl": "https://example.com/x-epoch-of-dragon-poster.jpg"
+  },
+  {
+    "no": 7,
+    "nama": "Perfect World",
+    "imageurl": "https://www.pinterest.com/pin/1130614681451455442-perfect-world-poster.jpg"
+  },
+  {
+    "no": 8,
+    "nama": "Heaven Official’s Blessing Season 2",
+    "imageurl": "https://otakumode.com/images/heaven-officials-blessing-s2-poster.jpg"
+  },
+  {
+    "no": 9,
+    "nama": "GoWest: Overworked",
+    "imageurl": "https://donghua-news.com/images/gowest-overworked-poster-2025.jpg"
+  },
+  {
+    "no": 10,
+    "nama": "The Demon King Who Lost His Job",
+    "imageurl": "https://www.redbubble.com/i/poster/The-Demon-King-Who-Lost-His-Job-by-JosephOrozco/62630861.LVTDI"
   }
 ]
