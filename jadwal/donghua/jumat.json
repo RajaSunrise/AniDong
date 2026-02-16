@@ -1,6 +1,87 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "Keyboard Immortal",
+    "imageurl": "https://i.pinimg.com/736x/923871311056233781-land-of-the-keyboard-immortal.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Lord of Planet",
+    "imageurl": "https://m.media-amazon.com/images/M/MV5BZTQxZGM1MGYtZDQwNS00NGI5LTliOGItMzMzNjY2ZTliMzdkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "Eat Around the Mortal World",
+    "imageurl": "https://i.pinimg.com/736x/00/74/a6/0074a67bf579bde39be57eb4bffc76db.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "I Am The Blade",
+    "imageurl": "https://www.redbubble.com/i/poster/I-am-the-blade-the-blade-is-me-anime-by-xenxanses2/136863609.LVTDI"
+  },
+  {
+    "no": 5,
+    "nama": "Dream Tower: Snow Mystery City Season 2",
+    "imageurl": "https://i.pinimg.com/736x/600738037826336843-dream-tower-poster.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "The Great Ruler 3D",
+    "imageurl": "https://i.pinimg.com/originals/the-great-ruler-3d-poster.jpg"
+  },
+  {
+    "no": 7,
+    "nama": "Tomb of Fallen Gods Season 3",
+    "imageurl": "https://i.pinimg.com/originals/tomb-of-fallen-gods-s3-poster.jpg"
+  },
+  {
+    "no": 8,
+    "nama": "Jun You Yun Season 2",
+    "imageurl": "https://i.pinimg.com/originals/jun-you-yun-s2-new-poster.jpg"
+  },
+  {
+    "no": 9,
+    "nama": "Shadow of the Void",
+    "imageurl": "https://example.com/shadow-of-the-void-poster.jpg"
+  },
+  {
+    "no": 10,
+    "nama": "Xi Xing Ji Season 5",
+    "imageurl": "https://m.media-amazon.com/images/M/MV5BZTQxZGM1MGYtZDQwNS00NGI5LTliOGItMzMzNjY2ZTliMzdkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "no": 11,
+    "nama": "The Success Of Empyrean Xuan Emperor",
+    "imageurl": "https://i.pinimg.com/736x/892697957386176124-jiu-tian-xuan-di-jue-poster.jpg"
+  },
+  {
+    "no": 12,
+    "nama": "Candle in the Tomb: Return to the South Sea",
+    "imageurl": "http://www.impawards.com/intl/china/tv/posters/candle_in_the_tomb_south_sea_tomb.jpg"
+  },
+  {
+    "no": 13,
+    "nama": "The Gate of Mystical Realm",
+    "imageurl": "https://example.com/gate-of-mystical-realm-poster.jpg"
+  },
+  {
+    "no": 14,
+    "nama": "Otherworldly Evil Monarch",
+    "imageurl": "https://example.com/otherworldly-evil-monarch-poster.jpg"
+  },
+  {
+    "no": 15,
+    "nama": "Soul Land 2: The Unrivaled Tang Sect",
+    "imageurl": "https://example.com/soul-land-2-poster.jpg"
+  },
+  {
+    "no": 16,
+    "nama": "The Abyss Game",
+    "imageurl": "https://example.com/abyss-game-poster.jpg"
+  },
+  {
+    "no": 17,
+    "nama": "Summer Punch",
+    "imageurl": "https://example.com/summer-punch-poster.jpg"
   }
 ]
