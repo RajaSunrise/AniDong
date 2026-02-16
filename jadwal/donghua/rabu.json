@@ -1,6 +1,92 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "Peerless Battle Spirit",
+    "imageurl": "https://i.pinimg.com/736x/peerless-battle-spirit-minimal-poster.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Xi Xing Ji Asura: Mad King",
+    "imageurl": "https://i.pinimg.com/736x/xi-xing-ji-asura-mad-king-poster.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "The Supreme Body Refining Master",
+    "imageurl": "https://i.pinimg.com/originals/supreme-body-refining-master-poster.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "My WeChat Connects to the Dragon Palace",
+    "imageurl": "https://i.pinimg.com/736x/my-wechat-dragon-palace-poster.jpg"
+  },
+  {
+    "no": 5,
+    "nama": "Slay the Gods",
+    "imageurl": "https://i.pinimg.com/736x/slay-the-gods-poster-edit.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "Purple River Season 2",
+    "imageurl": "https://i.pinimg.com/736x/purple-river-s2-official-poster.jpg"
+  },
+  {
+    "no": 7,
+    "nama": "The Legend of Magic Outfit",
+    "imageurl": "https://i.pinimg.com/736x/the-legend-of-magic-outfit-poster.jpg"
+  },
+  {
+    "no": 8,
+    "nama": "A Moment but Forever",
+    "imageurl": "https://example.com/a-moment-but-forever-poster.jpg"
+  },
+  {
+    "no": 9,
+    "nama": "Shao Nian Ge Xing Season 3",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/shao-nian-ge-xing-s3.jpg"
+  },
+  {
+    "no": 10,
+    "nama": "Close Combat Mage",
+    "imageurl": "https://example.com/close-combat-mage-poster.jpg"
+  },
+  {
+    "no": 11,
+    "nama": "Return of The Immortal Emperor",
+    "imageurl": "https://example.com/return-immortal-emperor-poster.jpg"
+  },
+  {
+    "no": 12,
+    "nama": "The Mirage House in the Clouds",
+    "imageurl": "https://example.com/mirage-house-clouds-poster.jpg"
+  },
+  {
+    "no": 13,
+    "nama": "The Island of Siliang Season 2",
+    "imageurl": "https://example.com/island-of-siliang-s2-poster.jpg"
+  },
+  {
+    "no": 14,
+    "nama": "Divine Manifestation",
+    "imageurl": "https://example.com/divine-manifestation-poster.jpg"
+  },
+  {
+    "no": 15,
+    "nama": "Endless God Realm",
+    "imageurl": "https://example.com/endless-god-realm-poster.jpg"
+  },
+  {
+    "no": 16,
+    "nama": "Throne of Seal",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/throne-of-seal-poster.jpg"
+  },
+  {
+    "no": 17,
+    "nama": "Urban Ancient Immortal Doctor",
+    "imageurl": "https://example.com/urban-ancient-immortal-doctor-poster.jpg"
+  },
+  {
+    "no": 18,
+    "nama": "Tales Of Dark River",
+    "imageurl": "https://example.com/tales-of-dark-river-poster.jpg"
   }
 ]
