@@ -1,6 +1,32 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "Eris no Seihai",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/60151.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Jigoku Sensei Nube (2025)",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/59342.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "Mato Seihei no Slave Season 1 + 2",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/58505.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "MF Ghost Season 1 + 2 + 3",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/50695.jpg"
+  },
+  {
+    "no": 5,
+    "nama": "Odayaka Kizoku no Kyuuka no Susume.",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/60071.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/60395.jpg"
   }
 ]
