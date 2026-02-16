@@ -1,6 +1,57 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "IMMORTALITY SEASON 5",
+    "imageurl": "https://i.pinimg.com/736x/09/53/fe/0953fed04e8d7983cc5573c34a6f2f54.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Wonderland Season 5",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/49305.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "The Legend of Sword Domain",
+    "imageurl": "https://i.pinimg.com/736x/46/33/71/4633717750a43271796c5ddb48786b18.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "Purgatory Walkers",
+    "imageurl": "https://i.pinimg.com/originals/some-purgatory-walkers-poster.jpg"
+  },
+  {
+    "no": 5,
+    "nama": "WUKONG",
+    "imageurl": "https://i.pinimg.com/originals/black-myth-wukong-donghua-poster.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "Proud Swordsman",
+    "imageurl": "https://i.pinimg.com/originals/proud-swordsman-poster.jpg"
+  },
+  {
+    "no": 7,
+    "nama": "Adventures in Subduing the Demons",
+    "imageurl": "https://example.com/adventures-subduing-demons-poster.jpg"
+  },
+  {
+    "no": 8,
+    "nama": "Wind of the Tang Dynasty",
+    "imageurl": "https://example.com/wind-tang-dynasty-poster.jpg"
+  },
+  {
+    "no": 9,
+    "nama": "Blader Soul: Origin",
+    "imageurl": "https://example.com/blader-soul-origin-poster.jpg"
+  },
+  {
+    "no": 10,
+    "nama": "Super Xiang",
+    "imageurl": "https://example.com/super-xiang-poster.jpg"
+  },
+  {
+    "no": 11,
+    "nama": "Swallowed Star Season 4",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/swallowed-star-s4.jpg"
   }
 ]
