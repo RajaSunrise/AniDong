@@ -1,6 +1,42 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "Chitose-kun wa Ramune Bin no Naka",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/59517.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Darwin Jihen",
+    "imageurl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Darwin_Jihen_manga_volume_1_cover.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "Golden Kamuy Season 1 + 2 + 3 + 4 + 5",
+    "imageurl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Golden_Kamuy_anime_poster.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "Himesama “Goumon” no Jikan desu Season 1 + 2",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/himesama_goumon.jpg"
+  },
+  {
+    "no": 5,
+    "nama": "Maou no Musume wa Yasashisugiru!!",
+    "imageurl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Maou_no_Musume_wa_Yasashisugiru_manga_cover.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "Mayonaka Heart Tune",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/manga/mayonaka_heart_tune.jpg"
+  },
+  {
+    "no": 7,
+    "nama": "Osananajimi to wa Love Comedy ni Naranai",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/osananajimi_romcom.jpg"
+  },
+  {
+    "no": 8,
+    "nama": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/61983.jpg"
   }
 ]
