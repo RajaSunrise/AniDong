@@ -1,6 +1,97 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "Soul Land Season 2 (Live Action)",
+    "imageurl": "https://www.imdb.com/title/tt28022382/mediaviewer/rmsomeposterid.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "Ancient Supremacy",
+    "imageurl": "https://in.pinterest.com/pin/ancient-supremacy--873698396448682003"
+  },
+  {
+    "no": 3,
+    "nama": "Golden Guards: The Wind Rises From Jinling",
+    "imageurl": "https://www.themoviedb.org/t/p/original/some-jinwu-guard-poster.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "Hitori No Shita Season 6",
+    "imageurl": "https://www.instagram.com/p/DST_TlAjoe_/media/?size=l"
+  },
+  {
+    "no": 5,
+    "nama": "Make Money To Be King",
+    "imageurl": "https://in.pinterest.com/pin/make-money-to-be-king-wo-kao-chongzhi-dang-wudi--51791464456491511"
+  },
+  {
+    "no": 6,
+    "nama": "Matchless Emperor",
+    "imageurl": "https://www.pinterest.com/pin/gaizhi-di-zunmatchless-emperor--850406342161841518"
+  },
+  {
+    "no": 7,
+    "nama": "The War of Cards",
+    "imageurl": "https://www.pinterest.com/pin/778700591860172751"
+  },
+  {
+    "no": 8,
+    "nama": "The Ethereal Sword Immortal",
+    "imageurl": "https://stablediffusionweb.com/image/49763074-donghua-sword-immortal"
+  },
+  {
+    "no": 9,
+    "nama": "Tales of Herding Gods",
+    "imageurl": "https://example.com/tales-of-herding-gods-poster.jpg"
+  },
+  {
+    "no": 10,
+    "nama": "Legend of Soldier",
+    "imageurl": "https://example.com/legend-of-soldier-poster.jpg"
+  },
+  {
+    "no": 11,
+    "nama": "Great Desolation Spirit Sovereign",
+    "imageurl": "https://example.com/great-desolation-spirit-sovereign-poster.jpg"
+  },
+  {
+    "no": 12,
+    "nama": "God of War Alliance",
+    "imageurl": "https://example.com/god-of-war-alliance-poster.jpg"
+  },
+  {
+    "no": 13,
+    "nama": "Renegade Immortal",
+    "imageurl": "https://example.com/renegade-immortal-poster.jpg"
+  },
+  {
+    "no": 14,
+    "nama": "The Other Side of Deep Space",
+    "imageurl": "https://example.com/other-side-deep-space-poster.jpg"
+  },
+  {
+    "no": 15,
+    "nama": "The Daily Life of the Immortal King Season 5",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/daily-life-immortal-king-s5.jpg"
+  },
+  {
+    "no": 16,
+    "nama": "Martial Master",
+    "imageurl": "https://example.com/martial-master-poster.jpg"
+  },
+  {
+    "no": 17,
+    "nama": "Supreme God Emperor",
+    "imageurl": "https://example.com/supreme-god-emperor-poster.jpg"
+  },
+  {
+    "no": 18,
+    "nama": "Beyond Time’s Gaze",
+    "imageurl": "https://example.com/beyond-times-gaze-poster.jpg"
+  },
+  {
+    "no": 19,
+    "nama": "Martial Conqueror of the Cosmos",
+    "imageurl": "https://example.com/martial-conqueror-cosmos-poster.jpg"
   }
 ]
