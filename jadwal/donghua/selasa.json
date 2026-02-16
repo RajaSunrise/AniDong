@@ -1,6 +1,77 @@
 [
   {
     "no": 1,
-    "imageurl": "https://example.com/iamge.jpg"
+    "nama": "My Sectarian Members Are Spies",
+    "imageurl": "https://i.pinimg.com/736x/09/53/fe/0953fed04e8d7983cc5573c34a6f2f54.jpg"
+  },
+  {
+    "no": 2,
+    "nama": "I Can Have Infinite Enlightenment",
+    "imageurl": "https://i.pinimg.com/736x/some-infinite-enlightenment-poster.jpg"
+  },
+  {
+    "no": 3,
+    "nama": "Nirvana of Storm Riders",
+    "imageurl": "https://example.com/nirvana-storm-riders-poster.jpg"
+  },
+  {
+    "no": 4,
+    "nama": "Apotheosis",
+    "imageurl": "https://i.pinimg.com/736x/75/79/73/757973e4c3f8d6e4f0b0e0e0e0e0e0e0.jpg"
+  },
+  {
+    "no": 5,
+    "nama": "Ascendants of the Nine Suns",
+    "imageurl": "https://i.pinimg.com/originals/ascendants-nine-suns-poster.jpg"
+  },
+  {
+    "no": 6,
+    "nama": "Transcend Evolution",
+    "imageurl": "https://example.com/transcend-evolution-poster.jpg"
+  },
+  {
+    "no": 7,
+    "nama": "Supreme Alchemy",
+    "imageurl": "https://i.pinimg.com/736x/cd/6f/83/cd6f838e213dabec35303dc239e46496.jpg"
+  },
+  {
+    "no": 8,
+    "nama": "Sword and Fairy 3",
+    "imageurl": "https://example.com/sword-and-fairy-3-poster.jpg"
+  },
+  {
+    "no": 9,
+    "nama": "Martial Master",
+    "imageurl": "https://i.pinimg.com/originals/martial-master-poster.jpg"
+  },
+  {
+    "no": 10,
+    "nama": "Lord of the Ancient God Grave",
+    "imageurl": "https://example.com/lord-ancient-god-grave-poster.jpg"
+  },
+  {
+    "no": 11,
+    "nama": "Great Doctor Miss Nine",
+    "imageurl": "https://example.com/great-doctor-miss-nine-poster.jpg"
+  },
+  {
+    "no": 12,
+    "nama": "The Legend Of The Greatest Sword Immortal",
+    "imageurl": "https://example.com/greatest-sword-immortal-poster.jpg"
+  },
+  {
+    "no": 13,
+    "nama": "Quanzhi Gaoshou Season 3",
+    "imageurl": "https://myanimelist.cdn-dena.com/images/anime/quanzhi-gaoshou-s3.jpg"
+  },
+  {
+    "no": 14,
+    "nama": "Shrouding the Heavens",
+    "imageurl": "https://example.com/shrouding-the-heavens-poster.jpg"
+  },
+  {
+    "no": 15,
+    "nama": "100.000 Years of Refining Qi",
+    "imageurl": "https://example.com/100000-years-refining-qi-poster.jpg"
   }
 ]
