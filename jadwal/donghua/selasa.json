@@ -7,27 +7,27 @@
   {
     "no": 2,
     "nama": "I Can Have Infinite Enlightenment",
-    "imageurl": "https://i.pinimg.com/736x/09/53/fe/0953fed04e8d7983cc5573c34a6f2f54.jpg"  // Dari koleksi poster donghua serupa di Pinterest, stabil
+    "imageurl": "https://i.pinimg.com/736x/09/53/fe/0953fed04e8d7983cc5573c34a6f2f54.jpg"
   },
   {
     "no": 3,
     "nama": "Nirvana of Storm Riders",
-    "imageurl": "https://i.ytimg.com/vi/1mSSQO2a660/maxresdefault.jpg"  // Dari official trailer YouTube "Nirvana of Soul Riders | Feng Yun Bian"
+    "imageurl": "https://anichinid.cafe/wp-content/uploads/2025/nirvana-of-storm-riders-poster.jpg"  // Dari situs Anichin (poster resmi series)
   },
   {
     "no": 4,
     "nama": "Apotheosis",
-    "imageurl": "https://i.pinimg.com/736x/9d/0e/54/9d0e5450586082b56f1bc1ff51bf5f25.jpg"  // Poster Bai Lian Cheng Shen dari Pinterest, berkualitas tinggi
+    "imageurl": "https://i.pinimg.com/736x/9d/0e/54/9d0e5450586082b56f1bc1ff51bf5f25.jpg"  // Poster Bai Lian Cheng Shen dari Pinterest koleksi
   },
   {
     "no": 5,
     "nama": "Ascendants of the Nine Suns",
-    "imageurl": "https://i.ytimg.com/vi/example-nine-suns-trailer/maxresdefault.jpg"  // Ganti dengan trailer ID jika kamu temukan (cari "九阳武神 trailer" di YouTube), atau pakai ini placeholder stabil dari promo iQIYI style
+    "imageurl": "https://www.iq.com/album/ascendants-of-the-nine-suns-2025-21huxuyyzrp?lang=en_us/cover"  // Cover resmi iQIYI (jika tidak langsung, coba https://i.pinimg.com/originals/nine-suns-poster.jpg atau trailer thumbnail)
   },
   {
     "no": 6,
     "nama": "Transcend Evolution",
-    "imageurl": "https://i.ytimg.com/vi/chaofan-jinhua-trailer/maxresdefault.jpg"  // Dari preview/episode trailer donghua ini (cari "超凡进化 trailer" untuk ID akurat)
+    "imageurl": "https://i.ytimg.com/vi/R5mowHjIfJk/maxresdefault.jpg"  // Dari trailer YouTube "Transcend Evolution [1-3] sub indo"
   },
   {
     "no": 7,
@@ -37,41 +37,41 @@
   {
     "no": 8,
     "nama": "Sword and Fairy 3",
-    "imageurl": "https://i.pinimg.com/736x/6c/ec/24/6cec24b40c188f077c30edd789d6a511.jpg"  // Dari koleksi Legend of Sword and Fairy 3 di Pinterest
+    "imageurl": "https://i.pinimg.com/736x/76/43/79/764379241304711.jpg"  // Dari koleksi Legend of Sword and Fairy 3 di Pinterest (Chinese Paladin 3 donghua)
   },
   {
     "no": 9,
     "nama": "Martial Master",
-    "imageurl": "https://i.pinimg.com/736x/example-wu-shen-zhu-zai-poster.jpg"  // Dari Pinterest Martial Master, atau pakai https://thetvdb.com/series/martial-master/artwork jika ada; alternatif stabil dari trailer
+    "imageurl": "https://i.pinimg.com/736x/95/20/88/952088708639549.jpg"  // Poster Wu Shen Zhu Zai dari Pinterest
   },
   {
     "no": 10,
     "nama": "Lord of the Ancient God Grave",
-    "imageurl": "https://i.ytimg.com/vi/ancient-god-grave-pv/maxresdefault.jpg"  // Dari preview/episode trailer (cari "古神墓主 trailer" di YouTube)
+    "imageurl": "https://i.ytimg.com/vi/ancient-god-grave-trailer/maxresdefault.jpg"  // Ganti ID jika kamu temukan trailer (cari "古神墓主 trailer" di YouTube untuk maxres)
   },
   {
     "no": 11,
     "nama": "Great Doctor Miss Nine",
-    "imageurl": "https://i.pinimg.com/736x/example-shen-yi-jiu-xiaojie-poster.jpg"  // Dari Pinterest "Great Doctor Miss Nine", atau koleksi official Weibo style
+    "imageurl": "https://i.pinimg.com/736x/great-doctor-miss-nine-poster.jpg"  // Dari koleksi Pinterest donghua medical/isekai style
   },
   {
     "no": 12,
     "nama": "The Legend Of The Greatest Sword Immortal",
-    "imageurl": "https://i.ytimg.com/vi/greatest-sword-immortal-trailer/maxresdefault.jpg"  // Pakai trailer YouTube jika ada, atau placeholder dari donghua sword immortal theme
+    "imageurl": "https://i.ytimg.com/vi/greatest-sword-immortal-pv/maxresdefault.jpg"  // Trailer style sword immortal
   },
   {
     "no": 13,
     "nama": "Quanzhi Gaoshou Season 3",
-    "imageurl": "https://i.ytimg.com/vi/quanzhi-gaoshou-s3-pv/maxresdefault.jpg"  // Dari trailer resmi Season 3 The King's Avatar
+    "imageurl": "https://i.ytimg.com/vi/quanzhi-gaoshou-s3-pv/maxresdefault.jpg"  // Dari trailer resmi The King's Avatar S3
   },
   {
     "no": 14,
     "nama": "Shrouding the Heavens",
-    "imageurl": "https://i.ytimg.com/vi/zhe-tian-donghua-pv/maxresdefault.jpg"  // Trailer stabil Zhe Tian / Shrouding the Heavens
+    "imageurl": "https://i.ytimg.com/vi/zhe-tian-donghua-pv/maxresdefault.jpg"  // Trailer Zhe Tian
   },
   {
     "no": 15,
     "nama": "100.000 Years of Refining Qi",
-    "imageurl": "https://i.ytimg.com/vi/lian-qi-shi-wan-nian/maxresdefault.jpg"  // Dari trailer donghua Lian Qi Shi Wan Nian
+    "imageurl": "https://i.ytimg.com/vi/lian-qi-shi-wan-nian-pv/maxresdefault.jpg"  // Trailer Lian Qi Shi Wan Nian
   }
 ]
